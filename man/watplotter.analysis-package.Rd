@@ -11,8 +11,8 @@ Generate standard analyses and plots from hydrologic data.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{http://nwd-wmshare.nwd.usace.army.mil:3000/git/DataMgmt/watplotter.analysis}
-  \item Report bugs at \url{http://nwd-wmshare.nwd.usace.army.mil:3000/git/DataMgmt/watplotter.analysis/issues}
+  \item \url{https://github.com/cwbi-apps/watplotter.analysis}
+  \item Report bugs at \url{https://github.com/cwbi-apps/watplotter.analysis/issues}
 }
 
 }
